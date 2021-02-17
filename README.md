@@ -11,7 +11,7 @@ max_allowed_packet = 110M
 5. Restart Your server
 
 ################# I - Implémentation du script######################
-Un script est développer avec le langauege PHP (Json_to_Mysql.php) 
+Un script est développé avec le langauege PHP (Json_to_Mysql.php) 
 dont j'ai utulisé : 
 Apache 2.4.25
 PHP 5.6.30 
